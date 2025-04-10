@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Dilip kumar<br>👀 I’m interested in data science , machine learning models<br>🌱 I’m currently learning #python and #tensorflow<br>📫 email: dilipkumar.pdf@gmail.com<br>
+👋 Hi, I’m Dilip kumar<br>👀 I’m interested in coding models<br>🌱 I’m currently learning how to be a better coder<br>📫 email: dilipkumar.txt@gmail.com<br>
 
 
 ## 🌐 Socials:
