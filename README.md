@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated wave banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Hi%2C%20I%20am%20Dilip&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Python%20Backend%20%7C%20Cloud%20%26%20DevOps%20%7C%20Ex-Production%20Support%20Engineer&descAlignY=65&descSize=16" width="100%"/>
+# Hi, I'm Dilip 👋
+### Python Backend Developer | Cloud & DevOps | Ex-Production Support Engineer
 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2AA9E0&center=true&vCenter=true&width=900&lines=Building+backend+systems+that+dont+break+at+2AM;3+years+in+Production+Support%2C+now+building+backend;Learning+in+public+-+follow+the+journey)](https://git.io/typing-svg)
@@ -54,8 +54,15 @@ Nothing shipped yet — and that's fine, it's Day 1. Here's the roadmap, updated
 
 ### 📈 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=dilipkumar08&show_icons=true&theme=radical" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dilipkumar08&theme=radical" width="48%"/>
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=dilipkumar08&color=2AA9E0&style=flat)
+![Followers](https://img.shields.io/github/followers/dilipkumar08?style=flat&color=2AA9E0&label=Followers)
+![Public Repos](https://img.shields.io/badge/dynamic/json?color=2AA9E0&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdilipkumar08)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dilipkumar08&theme=radical" width="600"/>
+
+</div>
 
 ---
 
@@ -67,5 +74,8 @@ Nothing shipped yet — and that's fine, it's Day 1. Here's the roadmap, updated
 📧 dilipkumar.txt@gmail.com
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
+
+---
+*Building in public. Check back as the projects above turn into real links.*
+
 </div>
