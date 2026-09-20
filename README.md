@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated wave banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Hi,%20I'm%20Dilip&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Python%20Backend%20%7C%20Cloud%20%26%20DevOps%20%7C%20Ex-Production%20Support%20Engineer&descAlignY=65&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Hi%2C%20I%20am%20Dilip&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Python%20Backend%20%7C%20Cloud%20%26%20DevOps%20%7C%20Ex-Production%20Support%20Engineer&descAlignY=65&descSize=16" width="100%"/>
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2AA9E0&center=true&vCenter=true&width=600&lines=Building+backend+systems+that+don't+break+at+2AM;3+years+in+Production+Support%2C+now+building+the+backend;Learning+in+public+%E2%80%94+follow+the+journey)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2AA9E0&center=true&vCenter=true&width=900&lines=Building+backend+systems+that+dont+break+at+2AM;3+years+in+Production+Support%2C+now+building+backend;Learning+in+public+-+follow+the+journey)](https://git.io/typing-svg)
 
 </div>
 
@@ -48,7 +48,7 @@ Nothing shipped yet — and that's fine, it's Day 1. Here's the roadmap, updated
 ### 🌆 3D Contribution Graph
 
 <!-- This image is generated automatically by the GitHub Action described in the setup guide -->
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+<img src="./profile-3d-contrib/profile-night-green.svg" width="100%"/>
 
 ---
 
